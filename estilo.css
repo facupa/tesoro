@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+p {
+    line-height: 1.5;
+}
