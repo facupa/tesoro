@@ -1,0 +1,10 @@
+Resumen de cambios:
+
+1. Modificación del archivo `estilo.css`:
+   - Se añadió una nueva clase `.opciones` para crear un contenedor flexible para los enlaces de opciones.
+   - Se aplicaron estilos a los enlaces (`a`) dentro de `.opciones` para darles un aspecto uniforme, incluyendo un borde, relleno y un ancho fijo.
+   - Se definieron estilos para las imágenes (`img`) dentro de los enlaces para asegurar que todas tengan el mismo tamaño (ancho y alto) y se ajusten correctamente.
+
+2. Modificación de los archivos HTML:
+   - En los archivos `viaje.html`, `misteriosa.html`, `seguro.html`, `luchar.html`, `pacifico.html`, `atajo.html` y `laberinto.html`, los enlaces de opciones se agruparon dentro de un `<div>` con la clase `opciones`.
+   - Este cambio permite que los nuevos estilos definidos en `estilo.css` se apliquen correctamente, resultando en un diseño más ordenado y visualmente coherente en todas las páginas de la aventura.
